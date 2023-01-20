@@ -1,0 +1,38 @@
+.body1 {
+  background-color: aqua;
+}
+
+.body2 {
+  background-color: aquamarine;
+}
+
+.body3 {
+  background-color: blue;
+}
+
+.h11 {
+  text-align: center;
+  font-size: 50px;
+}
+
+.a1 {
+  font-size: 50px;
+  word-spacing: 5px;
+}
+
+.img1 {
+  width: 300px;
+}
+
+.h21 {
+  text-align: center;
+  font-size: 35px;
+}
+
+.img2 {
+  width: 350px;
+}
+
+.ul1{
+  list-style: none;
+}
